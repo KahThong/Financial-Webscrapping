@@ -1,1 +1,3 @@
 # Financial-Webscrapping
+
+Kickstart WebScrapping!
